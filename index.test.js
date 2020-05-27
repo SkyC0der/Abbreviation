@@ -1,4 +1,4 @@
-const pasrse = require('./index');
+const parse = require('./index');
 
 describe('Acronyms are produced from', () => {
   test('title cased phrases', () => {
